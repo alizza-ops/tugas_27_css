@@ -1,0 +1,25 @@
+div{
+        margin: 8px;
+        padding: 8px;
+        border: 2px solid white;
+        
+}
+
+.col-md-12{
+        background: aqua;
+      }
+.col-md-10{
+        background: green;
+      }
+.col-md-9{
+        background: blue;
+      }
+.col-md-8{
+        background: red;
+      }
+.col-md-4{
+        background: yellow;
+      }
+.col-md-2{
+        background: purple;
+      }
